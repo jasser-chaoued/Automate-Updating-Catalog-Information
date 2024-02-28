@@ -3,7 +3,6 @@
 import datetime
 import os
 
-from run import catalog_data
 from reports import generate_report
 from emails import generate_email, send_email
 
